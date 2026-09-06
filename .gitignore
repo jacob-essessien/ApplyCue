@@ -1,0 +1,34 @@
+# Python and Django
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+*.sqlite3
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+client_secret*.json
+service-account*.json
+
+# Local uploads, logs and database exports
+media/
+logs/
+*.log
+*.dump
+*.sql
+
+# Editor and operating-system files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.DS_Store
