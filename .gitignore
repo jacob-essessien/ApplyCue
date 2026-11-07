@@ -10,6 +10,8 @@ env/
 .coverage
 htmlcov/
 *.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
 
 # Environment variables and secrets
 .env
