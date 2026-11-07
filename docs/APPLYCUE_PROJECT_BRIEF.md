@@ -4,9 +4,8 @@ ApplyCue is a web application that helps students, graduates and early-career ap
 
 The first release combines a complete manual planner with a working Gmail import and review flow. Its purpose is to test whether this combination reduces administrative effort and helps applicants keep track of what they need to do next.
 
-**Working name:** ApplyCue. **Tagline:** Know your next move. **Release target:** a deployed portfolio project and controlled beta. **Plan updated:** 7 November 2026.
+**Working name:** ApplyCue. **Tagline:** Know your next move. **Release target:** a deployed portfolio project and controlled beta. 
 
-This is the current scope and implementation reference. It supersedes conflicting choices in the earlier project plan and folder proposal. The schedule below starts when development resumes; it does not assume the earlier dates or deliverables were completed.
 
 ## 1 The problem and intended users
 
